@@ -204,7 +204,7 @@ msgid "Availability"
 msgstr ""
 
 #: template/default/index_template.inc.php:54
-msgid "Member Area"
+msgid "Log in"
 msgstr ""
 
 #: template/default/index_template.inc.php:55
